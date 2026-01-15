@@ -1,5 +1,7 @@
 IA na prática: Acelerando o desenvolvimento e garantindo a qualidade com um fluxo de trabalho automatizado por IA
 
+![Node.js CI](https://github.com/matthewOG06/ia-dev-workflow/actions/workflows/ci.yml/badge.svg)
+
  - Contexto
 
 A empresa simulada enfrenta dificuldades para entregar novas funcionalidades com rapidez sem perder qualidade. Quando o foco é acelerar as entregas, a quantidade de bugs aumenta. Quando o foco é qualidade e testes, os prazos acabam não sendo cumpridos.
