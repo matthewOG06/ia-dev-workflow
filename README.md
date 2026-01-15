@@ -19,6 +19,7 @@ O GitHub Copilot foi utilizado como apoio na criação da função principal do 
 O GitHub Actions foi utilizado para automatizar a execução dos testes a cada push no repositório, garantindo um feedback rápido sobre possíveis erros.
 
  - Estrutura do Projeto
+   
 src/        -> código principal da aplicação  
 tests/      -> testes automatizados  
 .github/    -> workflow de CI com GitHub Actions  
